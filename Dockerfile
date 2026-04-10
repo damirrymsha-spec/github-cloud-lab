@@ -9,4 +9,3 @@ COPY src/ ./src/
 COPY tests/ ./tests/
 
 CMD ["python", "-m", "pytest", "tests/", "-v"]
-ды
