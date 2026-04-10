@@ -11,5 +11,3 @@ A hands-on repository for learning GitHub as a cloud platform.
 
 ```bash
 python hello.py
-``
-`EOF`
